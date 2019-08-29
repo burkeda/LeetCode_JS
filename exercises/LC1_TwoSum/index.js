@@ -9,7 +9,7 @@
 function twoSum(arr, target) {
     let hashMap = {
         2: 7,
-        7: 2
+        7: 2 
     };
     let results = [];
     if(!arr || !target) {
